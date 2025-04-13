@@ -1,0 +1,11 @@
+﻿  test.cpp
+C:\Users\Hp\Desktop\assignment\Assignment 1\Project1\Project1\FileName.h(195,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/test.cpp')
+  
+C:\Users\Hp\Desktop\assignment\Assignment 1\Project1\Project1\FileName.h(267,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/test.cpp')
+  
+C:\Users\Hp\Desktop\assignment\Assignment 1\Project1\Project1\FileName.h(534,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/test.cpp')
+  
+  Sample-Test1.vcxproj -> C:\Users\Hp\Desktop\assignment\Assignment 1\Project1\x64\Debug\Sample-Test1.exe
